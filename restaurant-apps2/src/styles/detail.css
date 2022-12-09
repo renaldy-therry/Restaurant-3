@@ -1,0 +1,88 @@
+#container-resto{
+    margin-top: 55px;
+    line-height: 1.5;
+}
+
+.resto-desc{
+    padding: 15px;
+}
+
+.info-lengkap-resto{
+    max-width: 88%;
+}
+
+.nama-resto-deskripsi{
+    margin-bottom: 12px;
+    font-size: 28px;
+    text-align: center;
+}
+
+.resto-flyer{
+    max-width: 100%;
+    border-radius: 12px;
+}
+
+.resto-catalog{
+    margin: 35px;
+    border-radius: 15px;
+    padding: 8px;
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+}
+
+.resto-catalog h4{
+    text-align: center;
+}
+
+.resto-catalog ul{
+    padding: 24px;
+}
+
+/*resto Review*/
+.resto-review-title{
+    text-align: center;
+}
+
+.container-ulasan{
+    border-radius: 10px;
+    padding: 12px;
+    margin: 14px;
+    box-shadow: 0 10px 14px 0 rgba(0, 0, 0, 0.2);
+}
+
+.info-resto{
+    width: 100%;
+    margin: 12px auto;
+    box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px;
+}
+
+.info-resto h3{
+    text-align: center;
+}
+
+.deskripsi-resto{
+    margin-top: 22px;
+}
+
+.deskripsi-resto h3{
+    text-align: center;
+}
+
+.nama-pengulas{
+    font-weight: bold;
+}
+
+.tanggal-ulasan{
+    color: #6B728E;
+    font-size: small;
+}
+
+.info-lengkap-resto{
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+
+
+
